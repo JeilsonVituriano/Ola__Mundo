@@ -3,3 +3,5 @@
 
 
 Repositório criado durante aula do curso em video.
+
+Essa linha eu adcionei diretamente no site do Git Hub.
